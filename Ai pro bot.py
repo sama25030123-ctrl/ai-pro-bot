@@ -16,7 +16,7 @@ from PIL import Image
 TOKEN = "8986693714:AAEcJP1URFpA8uYpld0Q2g8nIWvzqSE6wCI"
 bot = telebot.TeleBot(TOKEN)
 
-gemini_client = genai.Client(api_key="AQ.Ab8RN6LanSobOej8ts91Rrb2s7qXRer8IZADJHdVBWSkR5o_EA")
+gemini_client = genai.Client(api_key="AQ.Ab8RN6IJ7b1tdwHeDQx9bCo9DAuV4NT-B0gFGFrHoy1L9tADtg")
 
 users_file = "users_list.txt"
 user_chats = {}
