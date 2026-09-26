@@ -1,1 +1,2 @@
-worker: python airprobot.py
+worker: python bot.py
+
