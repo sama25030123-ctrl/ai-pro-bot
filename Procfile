@@ -1,1 +1,1 @@
-worker: python "Ai pro bot.py"
+worker: python airprobot.py
